@@ -1,5 +1,7 @@
 # Simulador de Comunicação Digital (BPSK / QPSK + AWGN)
 
+### Link demo: https://youtu.be/dq4yaxFUfXI?si=eZwSo-g_MTMannI1
+
 Este projeto implementa, em Python, um **sistema completo de comunicação digital** para fins didáticos na disciplina de Redes de Computadores.  
 
 O simulador inclui:
